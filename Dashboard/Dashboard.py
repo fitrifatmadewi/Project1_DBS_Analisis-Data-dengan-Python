@@ -13,7 +13,7 @@ st.caption("Email: fitriworkspace12@gmail.com | Linkedln:https://www.linkedin.co
 # Load dataset
 @st.cache_data
 def load_data():
-    df = pd.read_csv("hour_cleaned_data.csv")
+    df = pd.read_csv("Dashboard/hour_cleaned_data.csv")
     df["date"] = pd.to_datetime(df["date"])  # Konversi date ke datetime
     return df
 
