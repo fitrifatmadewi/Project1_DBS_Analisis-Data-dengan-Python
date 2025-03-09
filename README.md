@@ -28,7 +28,7 @@ Dashboard memiliki tiga tab utama:
 Dataset berasal dari Kaggle: [Bike Sharing Dataset](https://www.kaggle.com/datasets/lakshmi25npathi/bike-sharing-dataset)
 
 ## 📧 Kontak
-Jika ada pertanyaan atau masukan, silakan hubungi **Fitri Fatma Dewi (MC004D5X1425)**. 
+Jika ada pertanyaan atau masukan, silakan hubungi **Fitri Fatma Dewi (MC004D5X1425) | Email: fitriworkspace12@gmail.com | Linkedln:https://www.linkedin.com/in/fitri-fatma-dewi**. 
 
 ---
 🚴‍♂️ Selamat menganalisis data penyewaan sepeda! 🚴‍♀️
