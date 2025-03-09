@@ -13,7 +13,7 @@ pip install streamlit pandas seaborn matplotlib plotly
 Setelah semua dependensi terinstal, jalankan perintah berikut di terminal:
 
 ```bash
-streamlit run dashboard.py
+streamlit run Dashboard.py
 ```
 
 Pastikan file dataset (`hour_cleaned_data.csv`) berada di direktori yang sama dengan `dashboard.py`.
@@ -28,7 +28,7 @@ Dashboard memiliki tiga tab utama:
 Dataset berasal dari Kaggle: [Bike Sharing Dataset](https://www.kaggle.com/datasets/lakshmi25npathi/bike-sharing-dataset)
 
 ## 📧 Kontak
-Jika ada pertanyaan atau masukan, silakan hubungi **Fitri Fatma Dewi (MC004D5X1425)**.
+Jika ada pertanyaan atau masukan, silakan hubungi **Fitri Fatma Dewi (MC004D5X1425)**. 
 
 ---
 🚴‍♂️ Selamat menganalisis data penyewaan sepeda! 🚴‍♀️
